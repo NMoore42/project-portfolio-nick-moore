@@ -1,0 +1,95 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "project_name": "Random Quote Generator",
+        "description": "An app that generates a random quote from a list of quotes with the click of a button.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "live_link": "https://nmoore42.github.io/techdegree-project-1/",
+        "github_link": "https://github.com/NMoore42/techdegree-project-1",
+        "image_urls": [
+          "/static/images/Project-1_Main_Screenshot.jpg",
+          "/static/images/Project-1_Screenshot_1.jpg",
+          "/static/images/Project-1_Screenshot_2.jpg"
+        ]
+      },
+
+      {
+        "id": 2,
+        "project_name": "Pagination & Content Filter",
+        "description": "An app that uses JavaScript to dynamically paginate a list of students to the webpage.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "live_link": "https://nmoore42.github.io/techdegree-project-2/",
+        "github_link": "https://github.com/NMoore42/techdegree-project-2",
+        "image_urls": [
+          "/static/images/Project-2_Main_Screenshot.jpg",
+          "/static/images/Project-2_Screenshot_1.jpg",
+          "/static/images/Project-2_Screenshot_2.jpg"
+        ]
+      },
+
+      {
+        "id": 3,
+        "project_name": "An Interactive Form",
+        "description": "A webpage that uses JavaScript to enhance an interactive registration form for a fictional conference called \"FullStack Conf.\"",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "live_link": " https://nmoore42.github.io/techdegree-project-3/",
+        "github_link": "https://github.com/NMoore42/techdegree-project-3",
+        "image_urls": [
+          "/static/images/Project-3_Main_Screenshot.jpg",
+          "/static/images/Project-3_Screenshot_1.jpg",
+          "/static/images/Project-3_Screenshot_2.jpg"
+        ]
+      },
+
+      {
+        "id": 4,
+        "project_name": "Tic Tac Toe",
+        "description": "A player vs computer Tic Tac Toe JavaScript game.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "live_link": "https://nmoore42.github.io/techdegree-project-4/",
+        "github_link": "https://github.com/NMoore42/techdegree-project-4",
+        "image_urls": [
+          "/static/images/Project-4_Main_Screenshot.jpg",
+          "/static/images/Project-4_Screenshot_1.jpg",
+          "/static/images/Project-4_Screenshot_2.jpg"
+        ]
+      },
+
+      {
+        "id": 5,
+        "project_name": "Employee Directory with API",
+        "description": "An app for a fictional company called \"Awesome Startup\" that requests a JSON object from an API and parses the data to display 12 employee photos and their information",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "API",
+          "JSON"
+        ],
+        "live_link": " https://nmoore42.github.io/techdegree-project-5/",
+        "github_link": "https://github.com/NMoore42/techdegree-project-5",
+        "image_urls": [
+          "/static/images/Project-5_Main_Screenshot.jpg",
+          "/static/images/Project-5_Screenshot_1.jpg",
+          "/static/images/Project-5_Screenshot_2.jpg"
+        ]
+      }
+    ]
+}

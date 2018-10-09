@@ -26,6 +26,10 @@ h1,h2,h3,h4,h5,p{
   border-radius: 5px;
 }
 
+.center{
+  text-align: center;
+}
+
 .text-light{
   color: #666;
 }
