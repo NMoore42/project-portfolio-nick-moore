@@ -1,0 +1,11 @@
+extends layout.pug
+
+block content
+  section.desk
+  div(class='center')
+    h1= `${error.message} - Status: ${error.status}`
+      a.button.expanded(href='/') Click Here to Go Home
+  br
+  .paper
+    pre.stack-trace= error.stack
+  .tear

@@ -3,7 +3,7 @@
       {
         "id": 1,
         "project_name": "Random Quote Generator",
-        "description": "An app that generates a random quote from a list of quotes with the click of a button.",
+        "description": "An app that generates a random quote with the click of a button.",
         "technologies": [
           "HTML",
           "CSS",
@@ -39,7 +39,7 @@
       {
         "id": 3,
         "project_name": "An Interactive Form",
-        "description": "A webpage that uses JavaScript to enhance an interactive registration form for a fictional conference called \"FullStack Conf.\"",
+        "description": "An interactive registration form for a fictional conference.",
         "technologies": [
           "HTML",
           "CSS",
@@ -57,7 +57,7 @@
       {
         "id": 4,
         "project_name": "Tic Tac Toe",
-        "description": "A player vs computer Tic Tac Toe JavaScript game.",
+        "description": "A player vs computer Tic Tac Toe game.",
         "technologies": [
           "HTML",
           "CSS",
@@ -75,13 +75,11 @@
       {
         "id": 5,
         "project_name": "Employee Directory with API",
-        "description": "An app for a fictional company called \"Awesome Startup\" that requests a JSON object from an API and parses the data to display 12 employee photos and their information",
+        "description": "An app that requests a JSON object from an API and parses the data to display 12 employee photos and their information",
         "technologies": [
           "HTML",
           "CSS",
-          "JavaScript",
-          "API",
-          "JSON"
+          "JavaScript"
         ],
         "live_link": " https://nmoore42.github.io/techdegree-project-5/",
         "github_link": "https://github.com/NMoore42/techdegree-project-5",
@@ -89,6 +87,24 @@
           "/static/images/Project-5_Main_Screenshot.jpg",
           "/static/images/Project-5_Screenshot_1.jpg",
           "/static/images/Project-5_Screenshot_2.jpg"
+        ]
+      },
+
+      {
+        "id": 6,
+        "project_name": "Webscraper",
+        "description": "A command-line program that scrapes a website for information and saves into a CSV file.",
+        "technologies": [
+          "JavaScript",
+          "NodeJS",
+          "NPM",
+          "Cheerio"
+        ],
+        "github_link": "https://github.com/NMoore42/techdegree-project-6",
+        "image_urls": [
+          "/static/images/Project-6_Main_Screenshot.jpg",
+          "/static/images/Project-6_Screenshot_1.jpg",
+          "/static/images/Project-6_Screenshot_2.jpg"
         ]
       }
     ]
