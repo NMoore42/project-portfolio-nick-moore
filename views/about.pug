@@ -2,7 +2,7 @@ extends layout.pug
 
 block content
   nav.grid-container.portfolio-breadcrumb
-    a(href='/') ← Back
+    a(href='/', class= 'text-light') ← Back
   article.grid-container.portfolio-intro.portfolio-project
     .grid-x
       .cell.small-6.medium-9.large-9
@@ -15,7 +15,7 @@ block content
             | I believe my background in designing physical goods has allowed me a unique appreciation for the design and development of code.  I get particular satisfaction from the ability to instantly test something I built – no more waiting weeks/months for prototype samples to be made!
             | Feel free to check out my code and try to break things.  As I progress through my learning, I plan to update this site and add future work.  I hope you have as much fun browsing my projects as I did putting them together!
       .cell.portfolio-meta.small-6.medium-2.large-3
-        h6 Skills
+        h6= skills
         ul
           li JavaScript
           li HTML
@@ -28,4 +28,4 @@ block content
         a.button.expanded(href='https://github.com/NMoore42' target='_blank') GitHub
 
   nav.grid-container.portfolio-breadcrumb
-    a(href='/') ← Back
+    a(href='/', class= 'text-light') ← Back

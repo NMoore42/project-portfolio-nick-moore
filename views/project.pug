@@ -2,7 +2,7 @@ extends layout.pug
 
 block content
   nav.grid-container.portfolio-breadcrumb
-    a(href='/') ← Back
+    a(href='/', class= 'text-light') ← Back
   article.grid-container.portfolio-intro.portfolio-project
     .grid-x
       .cell.small-6.medium-9.large-9
@@ -25,8 +25,7 @@ block content
           a.button.expanded(href= projects.github_link target= '_blank') GitHub Repo
         else
           a.button.expanded(href= projects.github_link target= '_blank') GitHub Repo
-
-    //- Replace the URLs in the src attributes below with template literals and interpolation to dynamically add three project images.  You only have to add one image.  But adding more images to show your app in different states demonstrates a level of thoroughness and professionalism that potential emplyers will like to see.
+ 
     br
     img.image(src= projects.image_urls[1])
     img.image(src= projects.image_urls[2])

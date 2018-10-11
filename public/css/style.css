@@ -1,6 +1,6 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Trebuchet MS', serif;
 }
 
   h5{
@@ -35,19 +35,19 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: #126195;
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: #FFA31F;
 }
 
 a{
-  color: #333;
+  color: #f6fbfe;
 }
 
 a:hover{
-  color: #111;
+  color: #FFA31F;
 }
 
 .image{
@@ -62,20 +62,20 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #126195;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: #e5f3fc;
   }
 
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: ##e6e6e6;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -83,7 +83,7 @@ a:hover{
   }
 
   .portfolio-me a:hover{
-    color: #999;
+    color: #0d4367;
   }
 
 .portfolio-breadcrumb{
