@@ -75,7 +75,7 @@
       {
         "id": 5,
         "project_name": "Employee Directory with API",
-        "description": "An app that requests a JSON object from an API and parses the data to display 12 employee photos and their information",
+        "description": "An app that requests a JSON object from an API and parses the data to display 12 employee photos and their information.",
         "technologies": [
           "HTML",
           "CSS",
@@ -105,6 +105,24 @@
           "/static/images/Project-6_Main_Screenshot.jpg",
           "/static/images/Project-6_Screenshot_1.jpg",
           "/static/images/Project-6_Screenshot_2.jpg"
+        ]
+      },
+
+      {
+        "id": 7,
+        "project_name": "A Static Node.js and Express Site",
+        "description": "A project-showcase site built using server-side JavaScript.",
+        "technologies": [
+          "JavaScript",
+          "NodeJS",
+          "Express",
+          "Pug"
+        ],
+        "github_link": "https://github.com/NMoore42/techdegree-project-7",
+        "image_urls": [
+          "/static/images/Project-7_Main_Screenshot.jpg",
+          "/static/images/Project-7_Screenshot_1.jpg",
+          "/static/images/Project-7_Screenshot_2.jpg"
         ]
       }
     ]
