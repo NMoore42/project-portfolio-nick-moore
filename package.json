@@ -23,6 +23,6 @@
   "homepage": "https://github.com/NMoore42/techdegree-project-7#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "pug": "^2.0.0-rc.1"
+    "pug": "^3.0.1"
   }
 }
